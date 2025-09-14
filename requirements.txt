@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+flask
+ipykernel
+python-dotenv==0.21.0
+scikit-learn==1.3.2
+
+-e.
